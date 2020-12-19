@@ -1,0 +1,47 @@
+#header #logo img {
+    padding: 0;
+    margin: 0;
+    width: 2.5rem;
+}
+
+#whatsapp-widget {
+    position:fixed;
+    left:20px;
+    bottom:20px;
+    z-index: 50;    
+}
+
+.whatsapp-widget-btn {
+    background:#32C03C;
+    vertical-align:center;
+    height: 3rem;
+    border-radius:50px;
+    color:white;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#fb-widget {
+    position:fixed;
+    left:20px;
+    bottom:20px;
+    z-index: 50;  
+}
+
+.fb-widget-btn {
+    background:#385898;
+    vertical-align:center;
+    height: 3rem;
+    border-radius:50px;
+    color:white;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fb-widget-btn img{
+    width: 2rem;
+    height: auto;
+}
+
